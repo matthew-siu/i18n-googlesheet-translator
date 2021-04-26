@@ -1,12 +1,12 @@
 # i18n-googlesheet-translater
 
-The application is used for converting the spreadsheet to native **iOS** (*.strings*) and **Android** (*.xml*) localization files.
+The application is used for converting the spreadsheet to native **iOS** (*.strings*) and **Android** (*.xml*) localization files by Google Apps Script.
 
 ## Setup
 
 1. Create or open a spreadsheet in Google Sheets.
 
-2. Add Google App Script Add-on. You may follow this link to finish the installation: https://developers.google.com/apps-script/guides/sheets/functions
+2. Add Google Apps Script Add-on. You may follow this link to finish the installation: https://developers.google.com/apps-script/guides/sheets/functions
 
 3. Add scripts. Copy and paste the code in *main.gs* and *i18n-utils.gs* to the script.
 ![setup1](src/setup1.png)
